@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anurag-AI-sys
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Anurag Mohan Roy ,3rd year I.T , IIEST Shibpur.
+- 👀 I’m interested in Coding , Game Development and Database Designing.
 - 🌱 I’m currently learning Web Development , Data Structures And Algorithms and JAVA
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me linkedin :https://www.linkedin.com/in/anurag-mohan-roy-741891201/  insta ID: electroniceuphoria
